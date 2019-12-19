@@ -56,7 +56,6 @@
         <record model="ir.actions.act_window" id="action_view_students">
             <field name="name">Students</field>
             <field name="res_model">student.student</field>
-            <field name="view_type">form</field>
             <field name="view_mode">tree,form</field>
             <field name="domain">[]</field>
             <field name="help" type="html">
